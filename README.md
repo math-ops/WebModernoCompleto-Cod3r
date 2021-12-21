@@ -3,4 +3,5 @@ Repositório para armazenar códigos, exemplos, duvidas entre outros arquivos re
 
 Criei uma Página no Notion para armazenar algumas informações também:
 
-[https://www.notion.so/Curso-Web-Moderno-Completo-com-Javascript-2021-7eaec6680003452086fcae144443c9ac] L i n k
+L i n k:
+https://www.notion.so/Curso-Web-Moderno-Completo-com-Javascript-2021-7eaec6680003452086fcae144443c9ac 
